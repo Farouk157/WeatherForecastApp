@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_icon_description">Weather icon representing the current weather condition.</string>
+    <string name="cityTextView_description">City name displaying the current weather location.</string>
+    <string name="temperatureTextView_description">Current temperature in Celsius.</string>
+    <string name="dayDetailsTextView">Daily Details</string>
+    <string name="no_active_alert">No active alerts</string>
+    <string name="active_alert">Active Alert: %1$s</string>
+    <string name="dismiss_alert">Dismiss Alert</string>
+    <string name="windspeed">Wind Speed</string>
+    <string name="rain">Rain</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="clouds">Clouds</string>
+    <string name="hoursdetails">3 Hours Details</string>
+    <string name="nextdays">Next 4 Days ></string>
+    <string name="favCities">Favorite Cities</string>
+    <string name="alert">Alerts</string>
+    <string name="selectLanguage">Select Language</string>
+    <string name="selectUnit">Select Units</string>
+    <string name="notification">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="don_t_forget_to_check_the_weather">Don\'t forget to check the weather!</string>
+    <string name="alertTime">Alert Time: </string>
+    <string name="dismiss">Dismiss</string>
+</resources>

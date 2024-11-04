@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الطقس</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_icon_description">Weather icon representing the current weather condition.</string>
+    <string name="cityTextView_description">City name displaying the current weather location.</string>
+    <string name="temperatureTextView_description">Current temperature in Celsius.</string>
+    <string name="dayDetailsTextView">التفاصيل اليومية</string>
+    <string name="no_active_alert">لا يوجد تنبيهات</string>
+    <string name="active_alert">تم تشغيل التنبيه</string>
+    <string name="dismiss_alert">اهماال التنبيه</string>
+    <string name="windspeed">سرعة الرياح</string>
+    <string name="rain">المطر</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="pressure">الضغط</string>
+    <string name="clouds">السحاب</string>
+    <string name="hoursdetails">تفاصيل كل 3 ساعات</string>
+    <string name="nextdays">   > طقس ٤ ايام قادمة</string>
+    <string name="favCities">المدن المفضلة</string>
+    <string name="alert">التنبيهات</string>
+    <string name="selectLanguage">حدد اللغة</string>
+    <string name="selectUnit">حدد وحدات القياس</string>
+    <string name="notification">التنبيهات</string>
+    <string name="settings">الاعدادات</string>
+    <string name="don_t_forget_to_check_the_weather">لا تنسي ان تري حالات الطقس !</string>
+    <string name="alertTime">وقت التنبيه: </string>
+    <string name="dismiss">Dismiss</string>
+</resources>

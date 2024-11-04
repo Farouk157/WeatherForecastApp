@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="25dp"/> <!-- Adjust this value for more or less rounding -->
+            <gradient android:angle="145" android:endColor="#331462" android:startColor="#331462" />
+        </shape>
+    </item>
+</selector>
